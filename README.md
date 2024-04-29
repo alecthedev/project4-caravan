@@ -12,7 +12,7 @@ I believe the I underestimated the scope of recreating Caravan, but I regret not
 
 I was able to replicate most of the rules and squash as many bugs as possible in the time I had. I learned a lot and would approach this project differently if I were to do it again.
 
-_Note: A few rules differ from the [official Caravan rules.](https://fallout.fandom.com/wiki/How_to_play_Caravan) See [Rules](https://github.com/alecthedev/project4-caravan/edit/main/README.md#rules) section below._
+_Note: A few rules differ from the [official Caravan rules.](https://fallout.fandom.com/wiki/How_to_play_Caravan) See ["Note on rules/Known bugs"](https://github.com/alecthedev/project4-caravan#note-on-rulesknown-bugs) section below._
 
 
 How to run
